@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mergim 👋
 
-<!--
-**MergimGara/MergimGara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Student in Business Information Technology (specialization Data Science) @ ZHAW  
+💡 Passionate about Data Engineering, Machine Learning & Applied AI  
+🔧 Practical experience from industry projects at Viboo & academic research
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔑 Tech Stack
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Git  
+- **Data Science:** Machine Learning, Deep Learning, Data Visualization, Feature Engineering  
+- **Data Engineering:** Relational Databases (MySQL), NoSQL (MongoDB), JSON, XML, APIs  
+- **Other Tools:** Docker, GitHub, SvelteKit, Spring Boot
+
+---
+
+## 📂 Featured Projects
+- 🧠 **Scientific Programming (Python)** – Data analysis & automation (grade: 6.0)  
+- 🌐 **Prototyping Project** – Full-stack web application (SvelteKit + DB integration)  
+- 🤖 **Kineos (IT Project Management)** – Prototype for AI-supported physiotherapy  
+- 📊 **Grafana Dashboards @ Viboo** – Data visualization & insights for building automation  
+
+---
+
+## 🎯 Current Focus
+- Strengthening my background in Statistics, ML & Data Engineering  
+- Preparing for the **MSc in Engineering – Data Science**  
+- Building applied AI solutions that bridge **business needs and technology**
+
+---
+
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/mergim-gara-9707aa342/) 
+- [Email](garamer1@students.zhaw.ch)
