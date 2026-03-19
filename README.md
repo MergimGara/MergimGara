@@ -24,7 +24,6 @@
 
 ## 🎯 Current Focus
 - Strengthening my background in Statistics, ML & Data Engineering  
-- Preparing for the **MSc in Engineering – Data Science**  
 - Building applied AI solutions that bridge **business needs and technology**
 
 ---
